@@ -16,3 +16,6 @@
 - Create a .env file based on the included .env.example, and replace with your own pgAdmin username and password
 - Run A3_Students.py via your code editor or the command line:
 > `python A3_Students.py`
+
+## Video Explanation
+> https://mediaspace.carleton.ca/media/COMP3005_A3_ExplanatoryVideo/1_fh6h8xnn
